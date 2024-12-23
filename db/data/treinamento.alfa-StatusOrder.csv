@@ -1,0 +1,5 @@
+code,name,descr,criticality
+N,Novo,Novo,0
+R,Reprovado,Reprovado,1
+P,Pendente,Pendente,2
+A,Aprovado,Aprovado,3
